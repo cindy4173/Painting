@@ -17,3 +17,5 @@ This programming is a processing painting tool. Users can choose different color
 
 **Screen Shoot**
 --------
+
+![screen1](https://user-images.githubusercontent.com/27960189/50532121-b52ca780-0ae2-11e9-87a3-ed1626c247f2.png)
